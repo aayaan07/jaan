@@ -74,7 +74,7 @@ Now you are ready to use it. Just run the JAAN.exe file and it will start. When 
 
 - Creating new window or tab : Say `Jaan new window` for new window and `Jaan new tab` for new tab.
 
-- Closing and opening applications : If you say `Jaan close` it will close the currently opened window. And if u say `Jaan open {application_name}` she will search it in the start and will open it.
+- Closing and opening applications : If you say `Jaan close this` it will close the currently opened window. And if u say `Jaan open {application_name}` she will search it in the start and will open it.
 
   For example -> `Jaan open Minecraft Launcher`
 
